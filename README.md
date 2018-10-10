@@ -7,3 +7,4 @@ Attach the trim function to the load event as shown and your image gets the whit
 
 - Will add color specification
 - Will default to 3-part white instead of "probably white" 
+- Will add tollerance
